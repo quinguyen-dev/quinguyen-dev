@@ -1,4 +1,4 @@
-# Oh 😱 ... a visitor I see! 💃🕺
+# OH 😱 ... a visitor I see! 💃🕺
 I'm an undergraduate/graduate student at WPI majoring in computer science. Expected graduation: May 2024.
 
 <details>
