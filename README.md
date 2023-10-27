@@ -6,11 +6,12 @@ I'm an undergraduate/graduate student at WPI majoring in computer science. Expec
   Learn more about me
 </summary>
 
-## About me
+## About me 🐼
 Immaculately chill vibes. Avid K-pop listener. Enjoyer of manga and comics.
 - [Connect with me professionally 💼](https://www.linkedin.com/in/quingocnguyen/)
 - [Connect with me musically 🎵](https://open.spotify.com/user/theasian_qui?si=ddb62fe421e94d68)
 - [Connect with me through media 📖](https://anilist.co/user/iuq/)
+- [Connect with me through pain 😔](https://leetcode.com/quinguyen-dev/)
 
 ### Professional Interest
 - Engineering products that users love using
@@ -29,7 +30,7 @@ Immaculately chill vibes. Avid K-pop listener. Enjoyer of manga and comics.
 - Kotlin
 - SwiftUI (learning)
 
-## What have I been working on?
+## What have I been working on? 💻
 
 ### Ongoing Projects
 - [Social Media Platform](https://github.com/quinguyen-dev/social-media) (TypeScript, React, Turborepo, Express, PostgreSQL)
@@ -40,3 +41,13 @@ Immaculately chill vibes. Avid K-pop listener. Enjoyer of manga and comics.
 - [Madness Puzzle](https://github.com/quinguyen-dev/2x2-madness-puzzle) (TypeScript, React, Tailwind, Vitest)
 - [ITS Companion Application](https://github.com/quinguyen-dev/wpi-its-companion) (Kotlin)
 - 🔒 Polar Park Hub (TypeScript, React Native, Shopify Restyle)
+
+## What am I learning right now? 📚
+- Docker (Really recommend this [introduction](https://www.youtube.com/watch?v=fSmLiOMp2qI) by Harkirat Singh)
+- SwiftUI (I eventually would love to work as an iOS developer for a high-traffic application)
+- Turborepo
+
+## What am I planning on learning? 📗
+- Remix.run / Next.js
+- Rust / Golang
+- GraphQL
