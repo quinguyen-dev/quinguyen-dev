@@ -32,6 +32,11 @@ Immaculately chill vibes. Avid K-pop listener. Enjoyer of manga and comics.
 
 ## What have I been working on? 💻
 
+### Potential Projects
+- macOS/iOS Manga Reader (because I can't get access to Aidoku 😞)
+- Portfolio Website based on the Figma editor (I love you Figma, pls hire me T__T)
+- Sudoku Solver Camera App (just revisisted backtracking in Leetcode so thought it would be 🆒)
+
 ### Ongoing Projects
 - [Social Media Platform](https://github.com/quinguyen-dev/social-media) (TypeScript, React, Turborepo, Express, PostgreSQL)
 - 📆 Consignment Store (React, Tailwind, AWS, Vitest, PostgreSQL)
