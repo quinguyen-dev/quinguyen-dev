@@ -42,8 +42,7 @@ Immaculately chill vibes. Avid K-pop listener. Enjoyer of manga and comics.
 - 📆 Consignment Store (React, Tailwind, AWS, Vitest, PostgreSQL)
 
 ### Recent Projects
-- [TempConvert](https://github.com/quinguyen-dev/TempConvert) (Swift, SwiftUI)
-- [WeSplit](https://github.com/quinguyen-dev/wesplit) (Swift, SwiftUI)
+- [100 Days of SwiftUI Project Repository](https://github.com/quinguyen-dev/100-Days-of-SwiftUI) (Swift, SwiftUI)
 - [Madness Puzzle](https://github.com/quinguyen-dev/2x2-madness-puzzle) (TypeScript, React, Tailwind, Vitest)
 - [ITS Companion Application](https://github.com/quinguyen-dev/wpi-its-companion) (Kotlin)
 - 🔒 Polar Park Hub (TypeScript, React Native, Shopify Restyle)
