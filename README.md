@@ -25,7 +25,7 @@ Immaculately chill vibes. Avid K-pop listener. Enjoyer of manga and comics.
 - HTML, CSS
 - React Native
 - Kotlin
-- SwiftUI (learning)
+- Swift & SwiftUI
 
 ## What have I been working on? 💻
 
@@ -34,9 +34,10 @@ Immaculately chill vibes. Avid K-pop listener. Enjoyer of manga and comics.
 - Portfolio Website based on the Figma editor (I love you Figma, pls hire me T__T)
 
 ### Ongoing Projects
-- TBD while job searching
+- TBD
 
 ### Recent Projects
+- 🔒 Centralized Search Engine over Wikipedia (Python)
 - [100 Days of SwiftUI Project Repository](https://github.com/quinguyen-dev/100-Days-of-SwiftUI) (Swift, SwiftUI)
 - [Madness Puzzle](https://github.com/quinguyen-dev/2x2-madness-puzzle) (TypeScript, React, Tailwind, Vitest)
 - [ITS Companion Application](https://github.com/quinguyen-dev/wpi-its-companion) (Kotlin)
