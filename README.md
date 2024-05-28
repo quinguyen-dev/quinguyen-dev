@@ -1,5 +1,5 @@
 # OH 😱 ... a visitor I see! 💃🕺
-I'm an undergraduate/graduate student at WPI majoring in computer science. Expected graduation: May 2024.
+I am a graduate from Worcester Polytechnic Institute looking for a full-time position in software engineering.
 
 <details>
 <summary>
