@@ -17,24 +17,19 @@ Immaculately chill vibes. Avid K-pop listener. Enjoyer of manga and comics.
 - Customer-driven development and design
 
 ### Preferred Technologies
-- React
 - TypeScript
+- Next.js or Remix.run
 - Prisma
 - PostgreSQL
-- Express.js
-- HTML, CSS
-- React Native
-- Kotlin
-- Swift & SwiftUI
+- Rust
 
 ## What have I been working on? 💻
 
 ### Potential Projects
 - macOS/iOS Manga Reader (because I can't get access to Aidoku 😞)
-- Portfolio Website based on the Figma editor (I love you Figma, pls hire me T__T)
 
 ### Ongoing Projects
-- TBD
+- MTG Goldfish Application with Workflows
 
 ### Recent Projects
 - 🔒 Centralized Search Engine over Wikipedia (Python)
@@ -45,7 +40,8 @@ Immaculately chill vibes. Avid K-pop listener. Enjoyer of manga and comics.
 - 🔒 Polar Park Hub (TypeScript, React Native, Shopify Restyle)
 
 ## What am I learning right now? 📚
-- SwiftUI (I eventually would love to work as an iOS developer for a high-traffic application)
+- Rust
+- Framer Motion & Three.js
 
 ## What am I planning on learning? 📗
-- Rust / Golang
+- TBD
