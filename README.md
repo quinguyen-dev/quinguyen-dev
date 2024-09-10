@@ -1,5 +1,5 @@
 # OH 😱 ... a visitor I see! 💃🕺
-I am currently a Software Developer @ Nirrin Technologies in Billerica, MA.
+I'm a Software Engineer @ Nirrin located in Billerica, MA.
 
 <details>
 <summary>
