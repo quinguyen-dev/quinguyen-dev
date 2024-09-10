@@ -1,5 +1,5 @@
 # OH 😱 ... a visitor I see! 💃🕺
-I am a graduate from Worcester Polytechnic Institute looking for a full-time position in software engineering.
+I am currently a Software Developer @ Nirrin Technologies in Billerica, MA.
 
 <details>
 <summary>
@@ -41,7 +41,8 @@ Immaculately chill vibes. Avid K-pop listener. Enjoyer of manga and comics.
 
 ## What am I learning right now? 📚
 - Rust
-- Framer Motion & Three.js
+- Qt C++
+- Framer Motion
 
 ## What am I planning on learning? 📗
 - TBD
