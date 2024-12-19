@@ -41,9 +41,3 @@ Immaculately chill vibes. Avid K-pop listener. Enjoyer of manga and comics.
 - [ITS Companion Application](https://github.com/quinguyen-dev/wpi-its-companion) (Kotlin)
 - 🔒 Consignment Store (Remix, Tailwind, SST, TypeScript, AWS S3, AWS Cognito) 
 - 🔒 Polar Park Hub (TypeScript, React Native, Shopify Restyle)
-
-## What am I learning right now? 📚
-- A secret.
-
-## What am I planning on learning? 📗
-- TBD
