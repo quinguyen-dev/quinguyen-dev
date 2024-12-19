@@ -1,5 +1,5 @@
-# OH 😱 ... a visitor I see! 💃🕺
-I'm a Software Engineer @ Nirrin located in Billerica, MA.
+# Hello!
+I'm a Full-Stack Software Engineer at Nirrin located in Billerica, MA.
 
 <details>
 <summary>
@@ -18,18 +18,21 @@ Immaculately chill vibes. Avid K-pop listener. Enjoyer of manga and comics.
 
 ### Preferred Technologies
 - TypeScript
+- Python 3
 - Next.js or Remix.run
 - Prisma
 - PostgreSQL
+- GraphQL
 - Rust
 
 ## What have I been working on? 💻
+- Products and tooling for Nirrin
 
 ### Potential Projects
-- macOS/iOS Manga Reader (because I can't get access to Aidoku 😞)
+- None
 
 ### Ongoing Projects
-- MTG Goldfish Application with Workflows
+- None
 
 ### Recent Projects
 - 🔒 Centralized Search Engine over Wikipedia (Python)
@@ -40,9 +43,7 @@ Immaculately chill vibes. Avid K-pop listener. Enjoyer of manga and comics.
 - 🔒 Polar Park Hub (TypeScript, React Native, Shopify Restyle)
 
 ## What am I learning right now? 📚
-- Rust
-- Qt C++
-- Framer Motion
+- A secret.
 
 ## What am I planning on learning? 📗
 - TBD
