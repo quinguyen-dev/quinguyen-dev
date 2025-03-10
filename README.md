@@ -7,7 +7,6 @@ I'm a Full-Stack Software Engineer at Nirrin located in Billerica, MA.
 </summary>
 
 ## About me 🐼
-Immaculately chill vibes. Avid K-pop listener. Enjoyer of manga and comics.
 - [Connect with me professionally 💼](https://www.linkedin.com/in/quingocnguyen/)
 - [Connect with me through pain 😔](https://leetcode.com/quinguyen-dev/)
 
